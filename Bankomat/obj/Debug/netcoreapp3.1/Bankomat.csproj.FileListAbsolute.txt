@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/bin/Debug/netcoreapp3.1/Bankomat.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/bin/Debug/netcoreapp3.1/Bankomat.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/bin/Debug/netcoreapp3.1/Bankomat.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/bin/Debug/netcoreapp3.1/Bankomat.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/bin/Debug/netcoreapp3.1/Bankomat.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/obj/Debug/netcoreapp3.1/Bankomat.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/obj/Debug/netcoreapp3.1/Bankomat.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/obj/Debug/netcoreapp3.1/Bankomat.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/obj/Debug/netcoreapp3.1/Bankomat.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/Bankomat/obj/Debug/netcoreapp3.1/Bankomat.pdb

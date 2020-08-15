@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/bin/Debug/netcoreapp3.1/NamespacesTask2.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/bin/Debug/netcoreapp3.1/NamespacesTask2.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/bin/Debug/netcoreapp3.1/NamespacesTask2.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/bin/Debug/netcoreapp3.1/NamespacesTask2.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/bin/Debug/netcoreapp3.1/NamespacesTask2.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/obj/Debug/netcoreapp3.1/NamespacesTask2.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/obj/Debug/netcoreapp3.1/NamespacesTask2.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/obj/Debug/netcoreapp3.1/NamespacesTask2.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/obj/Debug/netcoreapp3.1/NamespacesTask2.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/NamespacesTask2/obj/Debug/netcoreapp3.1/NamespacesTask2.pdb

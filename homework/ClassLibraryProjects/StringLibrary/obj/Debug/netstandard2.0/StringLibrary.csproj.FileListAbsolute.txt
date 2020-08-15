@@ -1,0 +1,8 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.0/StringLibrary.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.0/StringLibrary.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/bin/Debug/netstandard2.0/StringLibrary.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/namespacesLesson/homework/ClassLibraryProjects/StringLibrary/obj/Debug/netstandard2.0/StringLibrary.pdb
